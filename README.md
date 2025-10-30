@@ -1,1 +1,1 @@
-# elastic-net-GLMs
+## Building an elastic-net GLM to predict premiums from a medical insurance datastet
